@@ -11,6 +11,9 @@ astropy = "*"
 pandas = "*"
 jupyter = "*"
 ipykernel = "*"
+seaborn = "*"
+flake8 = "*"
+pycodestyle-magic = "*"
 
 [dev-packages]
 
