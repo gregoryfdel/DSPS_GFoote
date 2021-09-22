@@ -17,6 +17,7 @@ pycodestyle-magic = "*"
 geopandas = "*"
 shapely = "*"
 contextily = "*"
+tqdm = "*"
 
 [dev-packages]
 
