@@ -18,6 +18,7 @@ geopandas = "*"
 shapely = "*"
 contextily = "*"
 tqdm = "*"
+requests = "*"
 
 [dev-packages]
 
