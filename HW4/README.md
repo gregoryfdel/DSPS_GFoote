@@ -1,6 +1,6 @@
 # HW4
 
-## The Kolmogorov–Smirnov Test and Earthquakes
+## Testing the significance of Dark Matter
 
 Author : Gregory Foote
 
