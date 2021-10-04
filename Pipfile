@@ -10,15 +10,9 @@ numpy = "*"
 astropy = "*"
 pandas = "*"
 jupyter = "*"
-ipykernel = "*"
-seaborn = "*"
-flake8 = "*"
-pycodestyle-magic = "*"
-geopandas = "*"
-shapely = "*"
-contextily = "*"
 tqdm = "*"
 requests = "*"
+ipython = "*"
 
 [dev-packages]
 
