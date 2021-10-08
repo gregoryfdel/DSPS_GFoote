@@ -13,6 +13,7 @@ jupyter = "*"
 tqdm = "*"
 requests = "*"
 ipython = "*"
+sklearn = "*"
 
 [dev-packages]
 
